@@ -145,3 +145,12 @@ Browser extension packaging
 
 This proves my ability to not only build full-stack web apps but also convert them into cross-platform browser tools like Chrome/Edge extensions.
 The entire flow — from terminal to browser to UI — was built, debugged, and shipped by me alone.
+
+*OUTPUT:*
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dd935ab0-4525-4990-b0a2-d87977995248" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0604323b-df7d-411d-901f-1f3eeab8f603" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb7ff6d6-8732-4190-bc56-32f96aecf22f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/441eaa5c-1006-4806-b404-2485e1af8c95" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b89f82e6-d31a-4780-ab27-0821bc8b4ed7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/10ab18bb-b126-4230-9ef2-c29273d19b3c" />
